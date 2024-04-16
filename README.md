@@ -20,7 +20,7 @@ This repository contains four stylish and customizable CV templates created usin
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
-git clone https://github.com/sahaantor149/CV-Templates.git
+   git clone https://github.com/sahaantor149/CV-Templates.git
 
 3. **Choose a Template**: Navigate to the template of your choice within the `templates` directory.
 
